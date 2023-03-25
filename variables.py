@@ -1,0 +1,8 @@
+name = input("Enter your name: ")
+print(name)
+age = input("Enter your age: ")
+print(age)
+name_of_car_str = input("Which car do you drive? ")
+print(name_of_car_str)
+favorite_movie_str = input("What is your favorite movie? ")
+print(favorite_movie_str)
